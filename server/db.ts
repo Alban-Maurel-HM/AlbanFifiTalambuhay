@@ -65,29 +65,29 @@ const futureQuestions: Question[] = sortQuestions([
     {
         points: 200,
         question:
-            'David',
+            'Whats the best tv show rn?',
         imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
-        answer: 'Manchester',
+        answer: 'One Piece',
     },
     {
         points: 100,
         question:
-            'David',
-        answer: 'Kayser',
+            'Who is the buffalo bills head coach?',
+        answer: 'Sean Mcdermott',
     },
     {
         points: 300,
-        question: "David",
+        question: "Whats the captial of Jamaica?",
         imgSrc: '/programming_language.png',
-        answer: 'Brazil',
+        answer: 'Kingston',
     },
     {
         points: 400,
         question:
-            'David?',
+            'Who were john porks main companions before he died?',
         imgSrc:
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1tCOwOdOeYcp5iflCvvW95qCqpmNUo-TMIt3ndxzsxzmgmH18iClIIQLPO48ojPg5Rts2AUm9rZBeVPcjnjrjGaLSzCwbipQotY4EhOk3tUoHJjJyZjTqfY5s9MZ5eSkGrrqmom4JXUdHEqE-Ts8E9i-SuFf9xEukJcFBs5NuOhe6ANdODMFYzyV_Q/s16000/Unfinished.jpg",
-        answer: 'Leonardo Da Vinci',
+        answer: 'Tim Cheese, Agent 5.5, Simon Claw',
     }
 ]);
 

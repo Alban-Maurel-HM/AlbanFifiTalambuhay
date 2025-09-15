@@ -37,7 +37,7 @@ const presentQuestions: Question[] =
             points: 200,
             question:
                 'Where is this field?',
-            imgSrc: 'OldTrafford.jpg',
+            imgSrc: '/OldTrafford.jpg',
             answer: 'Manchester',
         },
         {
@@ -49,7 +49,7 @@ const presentQuestions: Question[] =
         {
             points: 300,
             question: "What is this country's biggest border with",
-            imgSrc: '/programming_language.png',
+            imgSrc: '/France.jpeg',
             answer: 'Brazil',
         },
         {

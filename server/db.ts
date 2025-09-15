@@ -37,7 +37,7 @@ const presentQuestions: Question[] =
             points: 200,
             question:
                 'Where is this field?',
-            imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
+            imgSrc: 'OldTrafford.jpg',
             answer: 'Manchester',
         },
         {

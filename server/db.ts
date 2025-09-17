@@ -15,7 +15,7 @@ const pastQuestions: Question[] = sortQuestions([
         points: 200,
         question:
             'Who is this?',
-        imgSrc: "https://cdn.britannica.com/34/4034-050-91EE1BCF/Flag-Myanmar.jpg",
+        imgSrc: "/david-solomon-1000x1000.avif",
         answer: "Goldman Sachs' CEO",
     },
     {
@@ -86,7 +86,7 @@ const futureQuestions: Question[] = sortQuestions([
         question:
             'Who were john porks main companions before he died?',
         imgSrc:
-            "https://static.wikia.nocookie.net/listofdeaths/images/b/b7/John_Pork.jpg/revision/latest/scale-to-width-down/284?cb=20250319123051",
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1tCOwOdOeYcp5iflCvvW95qCqpmNUo-TMIt3ndxzsxzmgmH18iClIIQLPO48ojPg5Rts2AUm9rZBeVPcjnjrjGaLSzCwbipQotY4EhOk3tUoHJjJyZjTqfY5s9MZ5eSkGrrqmom4JXUdHEqE-Ts8E9i-SuFf9xEukJcFBs5NuOhe6ANdODMFYzyV_Q/s16000/Unfinished.jpg",
         answer: 'Tim Cheese, Agent 5.5, Simon Claw',
     }
 ]);

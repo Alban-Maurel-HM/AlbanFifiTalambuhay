@@ -37,7 +37,7 @@ const presentQuestions: Question[] =
             points: 200,
             question:
                 'Where is this field?',
-            imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
+            imgSrc: '/OldTrafford.jpg',
             answer: 'Manchester',
         },
         {
@@ -49,7 +49,7 @@ const presentQuestions: Question[] =
         {
             points: 300,
             question: "What is this country's biggest border with",
-            imgSrc: '/programming_language.png',
+            imgSrc: '/France.jpeg',
             answer: 'Brazil',
         },
         {
@@ -57,7 +57,7 @@ const presentQuestions: Question[] =
             question:
                 'Who painted this?',
             imgSrc:
-                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1tCOwOdOeYcp5iflCvvW95qCqpmNUo-TMIt3ndxzsxzmgmH18iClIIQLPO48ojPg5Rts2AUm9rZBeVPcjnjrjGaLSzCwbipQotY4EhOk3tUoHJjJyZjTqfY5s9MZ5eSkGrrqmom4JXUdHEqE-Ts8E9i-SuFf9xEukJcFBs5NuOhe6ANdODMFYzyV_Q/s16000/Unfinished.jpg",
+                "https://cdn.mos.cms.futurecdn.net/44kXT82VEHfqTG6uQ9kHVh-575-80.jpg.webp",
             answer: 'Leonardo Da Vinci',
         }
     ]);

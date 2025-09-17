@@ -66,19 +66,20 @@ const futureQuestions: Question[] = sortQuestions([
         points: 200,
         question:
             'Whats the best tv show rn?',
-        imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
+        imgSrc: 'https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg',
         answer: 'One Piece',
     },
     {
         points: 100,
         question:
             'Who is the buffalo bills head coach?',
+        imgSrc: 'https://www.wivb.com/wp-content/uploads/sites/97/2023/09/AP23240548794477.jpg?w=1280',
         answer: 'Sean Mcdermott',
     },
     {
         points: 300,
         question: "Whats the captial of Jamaica?",
-        imgSrc: '/programming_language.png',
+        imgSrc: 'https://deih43ym53wif.cloudfront.net/large_kingston-jamaica-shutterstock_705443776_78eef56924.jpeg',
         answer: 'Kingston',
     },
     {

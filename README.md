@@ -50,3 +50,5 @@ npx sv create
 npx sv create jeopardy-talambuhay
 ```
 
+
+imgSrc: '/gitSS.png'
